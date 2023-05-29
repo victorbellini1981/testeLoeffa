@@ -1,4 +1,4 @@
-# testeLoeffa
+# testeLoeffa  Nunca havia mexido com Django e também não prestei atenção que tinham anexos no e-mail explicando o teste então fiz um crud completo para cadastro de funcionários pois achei que era livre. Resolvi entregar mesmo assim, pois havia feito esse compromisso com a empresa. Obrigado!
 É preciso ter o python instalado e o django, caso não tenha vc pode baixar o python no site: https://www.python.org/downloads/ e
 logo após baixá-lo abra o cmd do computador e rode o comando pip install django.
 Crie uma conexão localhost mysql na porta 3306 e nessa conexão crie um database chamado loeffa com o usuário root e a senha 123456.
